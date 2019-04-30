@@ -40,17 +40,21 @@
 
 3. 对生活保持乐观的心态，对新奇的事物保持好奇心，合理安排学习和休息的时间。
 
+#### 加入我们
+
+如果要加入我们，可以申请加入我们组织的QQ群(`782479602`)，大家可以在上面提问题或者有关建议。
+
 #### 文档链接
 
 > 该部分还没有完成，希望大家多多贡献。
 
 - 组织人员介绍
 
-- [组织动态](https://github.com/TropicalTeamYard/tty.document/DASHBOARD.md)
+- [组织动态](./DASHBOARD.md)
 
 - 开发规范
 
-- [创意与点子](https://github.com/TropicalTeamYard/tty.document/IDEA.md)
+- [创意与点子](./IDEA.md)
 
 - 项目进程
 
