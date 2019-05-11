@@ -50,7 +50,7 @@
 
     微信公众号日常推送开发动态，技术分享以及其他的文章，扫描二维码以关注我们的微信公众号。
 
-    <img src="./.cpp/wx_vector.png" style="height:72px;width:72px;"/>
+    <img src="./.img/wx_vector.png" style="height:80px;width:80px;"/>
 
 #### 文档链接
 
