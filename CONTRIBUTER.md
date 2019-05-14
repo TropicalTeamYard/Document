@@ -1,4 +1,4 @@
-## 组织人员介绍
+﻿## 组织人员介绍
 
 > *TropicalTeamYard*，一个位于~~热带~~亚热带地区的组织，有很多友善的小朋友哦。
 
@@ -31,6 +31,12 @@ Github [hellokidqq](https://github.com/hellokidqq)
 &emsp;&emsp;来自软件工程专业，大脑里充满着实用而有趣的IDEA，被认为具有成为产品经理的潜质，对于产品经理，TTY开发人员保证不会对产品经理使用砖头等工具，并会认真听取和考虑产品经理的想法，在近期的交流与探讨中，我们发现她的想法非常的好，并且对于开发者来说容易实现，相信在TTY的应用中我们能感受到她的独特想法给大家带来的便利。
 
 Github [organge](https://github.com/organge)
+
+####**CZH**-`[打手|学习ing]`
+
+&emsp;&emsp;软件工程的蒟蒻，真香蒟蒻；目前努力挣扎着前进，不过总是相信自己不会辜负汗水（0.0）目前......没有目前（-.-）但很希望在这个大家庭瞻仰大佬操作。
+
+Github [chitalshangy](https://github.com/chitalshangy)
 
 *****
 
