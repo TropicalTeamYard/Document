@@ -66,4 +66,4 @@
 
 - 项目进程
 
-- 友情链接(知识库)
+- [友情链接(知识库)](https://github.com/TropicalTeamYard/LearnSpace/blob/master/帮助文档/友情链接.md)
