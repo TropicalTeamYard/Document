@@ -1,4 +1,4 @@
-## 组织人员介绍
+﻿## 组织人员介绍
 
 > *TropicalTeamYard*，一个位于~~热带~~亚热带地区的组织，有很多友善的小朋友哦。
 
@@ -34,9 +34,15 @@ Github [hellokidqq](https://github.com/hellokidqq)
 
 Github [organge](https://github.com/organge)
 
+#### **CZH** - `[打手|学习ing]`
+
+&emsp;&emsp;软件工程的蒟蒻，真香蒟蒻；目前努力挣扎着前进，不过总是相信自己不会辜负汗水（0.0）目前......没有目前（-.-）但很希望在这个大家庭瞻仰大佬操作。
+
+Github [chitalshangy](https://github.com/chitalshangy)
+
 *****
 
-> 目前组织缺少`产品经理`、`运营`、`市场分析`，还有会写`后端`，`学习笔记`，`安卓`的contributor。欢迎有意向者加入这个大家庭。
+> 目前组织缺少~~产品经理~~、`运营`、`市场分析`，还有会写`后端`，`学习笔记`，`安卓`的contributor。欢迎有意向者加入这个大家庭。
 
 #### 称号要求
 
